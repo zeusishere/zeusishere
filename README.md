@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-- 🌱 I’m currently learning **NodeJS , React**
+- 🌱 I’m currently working as a NodeJS developer in a fast-paced startup in RTLS domain.
 
-- 📫 How to reach me **shubhamstudy@gmail.com**
+- 📫 How to reach me **convey.shubham@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
